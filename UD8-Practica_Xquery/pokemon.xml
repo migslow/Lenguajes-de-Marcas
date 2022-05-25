@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!-- Para la copa Captura: Capturados entre el 29 de marzo y el 5 de abril -->
 <pokedex>
 	<pokemon f_captura="2019">
 		<nombre>Espeon</nombre>
@@ -14,15 +13,15 @@
 		<tipo>Psiquico</tipo>
 		<pc>3046</pc>
 	</pokemon>
-	<pokemon f_captura="2018">
+		<pokemon f_captura="2018">
 		<nombre>Gyarados</nombre>
 		<ataque>
-			<a_nombre>Mordisco</a_nombre>
-			<potencia>6</potencia>
+				<a_nombre>Mordisco</a_nombre>
+				<potencia>6</potencia>
 		</ataque>
 		<ataque>
-			<a_nombre>Enfado</a_nombre>
-			<potencia>110</potencia>
+				<a_nombre>Enfado</a_nombre>
+				<potencia>110</potencia>
 		</ataque>
 		<tipo>Agua</tipo>
 		<tipo>Volador</tipo>
@@ -31,18 +30,18 @@
 	<pokemon f_captura="2018">
 		<nombre>Aggron</nombre>
 		<ataque>
-			<a_nombre>Cola Dragon</a_nombre>
-			<potencia>15</potencia>
+				<a_nombre>Cola Dragon</a_nombre>
+				<potencia>15</potencia>
 		</ataque>
 		<tipo>Acero</tipo>
 		<tipo>Roca</tipo>
 		<pc>666</pc>
 	</pokemon>
-	<pokemon f_captura="2020">
+		<pokemon f_captura="2020">
 		<nombre>Arcanine</nombre>
 		<ataque>
-			<a_nombre>Alarido</a_nombre>
-			<potencia>12</potencia>
+				<a_nombre>Alarido</a_nombre>
+				<potencia>12</potencia>
 		</ataque>
 		<tipo>Fuego</tipo>
 		<pc>83</pc>
@@ -50,8 +49,8 @@
 	<pokemon f_captura="2020">
 		<nombre>Flareon</nombre>
 		<ataque>
-			<a_nombre>Ascuas</a_nombre>
-			<potencia>10</potencia>
+				<a_nombre>Ascuas</a_nombre>
+				<potencia>10</potencia>
 		</ataque>
 		<tipo>Fuego</tipo>
 		<pc>2623</pc>
@@ -59,21 +58,21 @@
 	<pokemon f_captura="2018">
 		<nombre>Vaporeon</nombre>
 		<ataque>
-			<a_nombre>Hidrobomba</a_nombre>
-			<potencia>130</potencia>
+				<a_nombre>Hidrobomba</a_nombre>
+				<potencia>130</potencia>
 		</ataque>
 		<tipo>Agua</tipo>
 		<pc>25</pc>
 	</pokemon>
-	<pokemon f_captura="2021">
+		<pokemon f_captura="2021">
 		<nombre>Magneton</nombre>
 		<ataque>
-			<a_nombre>Rayo Carga</a_nombre>
-			<potencia>8</potencia>
+				<a_nombre>Rayo Carga</a_nombre>
+				<potencia>8</potencia>
 		</ataque>
 		<ataque>
-			<a_nombre>Retribucion</a_nombre>
-			<potencia>35</potencia>
+				<a_nombre>Retribucion</a_nombre>
+				<potencia>35</potencia>
 		</ataque>
 		<tipo>Electrico</tipo>
 		<pc>2159</pc>
@@ -81,8 +80,8 @@
 	<pokemon f_captura="2018">
 		<nombre>Hariyama</nombre>
 		<ataque>
-			<a_nombre>Avalancha</a_nombre>
-			<potencia>14</potencia>
+				<a_nombre>Avalancha</a_nombre>
+				<potencia>14</potencia>
 		</ataque>
 		<tipo>Lucha</tipo>
 		<pc>1054</pc>
@@ -90,8 +89,8 @@
 	<pokemon f_captura="2022">
 		<nombre>Skamory</nombre>
 		<ataque>
-			<a_nombre>Tajo Aereo</a_nombre>
-			<potencia>14</potencia>
+				<a_nombre>Tajo Aereo</a_nombre>
+				<potencia>14</potencia>
 		</ataque>
 		<tipo>Acero</tipo>
 		<tipo>Volador</tipo>
@@ -100,8 +99,9 @@
 	<pokemon f_captura="2022">
 		<nombre>Digglet</nombre>
 		<ataque>
-			<a_nombre>Lanzarrocas</a_nombre>
-			<potencia>12</potencia>	
+				<a_nombre>Lanzarrocas</a_nombre>
+				<potencia>12</potencia>
+				
 		</ataque>
 		<ataque>
 			<a_nombre>Avalancha</a_nombre>
@@ -113,12 +113,13 @@
 	<pokemon f_captura="2022">
 		<nombre>Slugma</nombre>
 		<ataque>
-			<a_nombre>Lanzarrocas</a_nombre>
-			<potencia>12</potencia>
+				<a_nombre>Lanzarrocas</a_nombre>
+				<potencia>12</potencia>
+				
 		</ataque>
 		<ataque>
 			<a_nombre>Avalancha</a_nombre>
-			<potencia>80</potencia>
+				<potencia>80</potencia>
 		</ataque>
 		<tipo>Fuego</tipo>
 		<pc>279</pc>
@@ -126,12 +127,13 @@
 	<pokemon f_captura="2020">
 		<nombre>Trapinch</nombre>
 		<ataque>
-			<a_nombre>Avalancha</a_nombre>
-			<potencia>14</potencia>
+				<a_nombre>Avalancha</a_nombre>
+				<potencia>14</potencia>
+				
 		</ataque>
 		<ataque>
 			<a_nombre>Hidrobomba</a_nombre>
-			<potencia>130</potencia>
+				<potencia>130</potencia>
 		</ataque>
 		<tipo>Tierra</tipo>
 		<pc>279</pc>
@@ -139,26 +141,28 @@
 	<pokemon f_captura="2017">
 		<nombre>Taillow</nombre>
 		<ataque>
-			<a_nombre>Ataque Rapido</a_nombre>
-			<potencia>8</potencia>
+				<a_nombre>Ataque Rapido</a_nombre>
+				<potencia>8</potencia>
+				
 		</ataque>
 		<ataque>
 			<a_nombre>Golpe Aereo</a_nombre>
-			<potencia>55</potencia>
+				<potencia>55</potencia>
 		</ataque>
 		<tipo>Normal</tipo>
 		<tipo>Volador</tipo>
 		<pc>411</pc>
 	</pokemon>
-	<pokemon f_captura="2018">
+		<pokemon f_captura="2018">
 		<nombre>Darumaka</nombre>
 		<ataque>
-			<a_nombre>Colmillo Igneo</a_nombre>
-			<potencia>12</potencia>
+				<a_nombre>Colmillo Igneo</a_nombre>
+				<potencia>12</potencia>
+				
 		</ataque>
 		<ataque>
 			<a_nombre>Nitrocarga</a_nombre>
-			<potencia>70</potencia>
+				<potencia>70</potencia>
 		</ataque>
 		<tipo>Fuego</tipo>
 		<pc>779</pc>
@@ -166,12 +170,13 @@
 	<pokemon f_captura="2019">
 		<nombre>Rufflet</nombre>
 		<ataque>
-			<a_nombre>Ataque ala</a_nombre>
-			<potencia>8</potencia>	
+				<a_nombre>Ataque ala</a_nombre>
+				<potencia>8</potencia>
+				
 		</ataque>
 		<ataque>
 			<a_nombre>Avalancha</a_nombre>
-			<potencia>70</potencia>
+				<potencia>70</potencia>
 		</ataque>
 		<tipo>Normal</tipo>
 		<tipo>Volador</tipo>
@@ -180,12 +185,13 @@
 	<pokemon f_captura="2017">
 		<nombre>Gligar</nombre>
 		<ataque>
-			<a_nombre>Rapido Ataque</a_nombre>
-			<potencia>8</potencia>
+				<a_nombre>Rapido Ataque</a_nombre>
+				<potencia>8</potencia>
+				
 		</ataque>
 		<ataque>
 			<a_nombre>Golpe Aereo</a_nombre>
-			<potencia>70</potencia>
+				<potencia>70</potencia>
 		</ataque>
 		<tipo>Tierra</tipo>
 		<tipo>Volador</tipo>
@@ -195,7 +201,8 @@
 		<nombre>Ditto</nombre>
 		<ataque>
 			<a_nombre>Transformacion</a_nombre>
-			<potencia>0</potencia>	
+			<potencia>0</potencia>
+				
 		</ataque>
 		<ataque>
 			<a_nombre>Combate</a_nombre>
@@ -207,12 +214,13 @@
 	<pokemon f_captura="2019">
 		<nombre>Fletchling</nombre>
 		<ataque>
-			<a_nombre>Picotazo</a_nombre>
-			<potencia>10</potencia>
+				<a_nombre>Picotazo</a_nombre>
+				<potencia>10</potencia>
+				
 		</ataque>
 		<ataque>
 			<a_nombre>Onda Ignea</a_nombre>
-			<potencia>95</potencia>
+				<potencia>95</potencia>
 		</ataque>
 		<tipo>Normal</tipo>
 		<tipo>Volador</tipo>
@@ -221,21 +229,24 @@
 	<pokemon f_captura="2020">
 		<nombre>Snubbull</nombre>
 		<ataque>
-			<a_nombre>Mordisco</a_nombre>
-			<potencia>6</potencia>
+				<a_nombre>Mordisco</a_nombre>
+				<potencia>6</potencia>
+				
 		</ataque>
+
 		<tipo>Hada</tipo>
 		<pc>297</pc>
 	</pokemon>
 	<pokemon f_captura="2022">
 		<nombre>Rattata</nombre>
 		<ataque>
-			<a_nombre>Ataque Rapido</a_nombre>
-			<potencia>8</potencia>
+				<a_nombre>Ataque Rapido</a_nombre>
+				<potencia>8</potencia>
+				
 		</ataque> 
 		<ataque>
 			<a_nombre>Bola Sombra</a_nombre>
-			<potencia>100</potencia>
+				<potencia>100</potencia>
 		</ataque>
 		<tipo>Siniestro</tipo>
 		<tipo>Normal</tipo>
@@ -244,33 +255,35 @@
 	<pokemon f_captura="2021">
 		<nombre>Fomantis</nombre>
 		<ataque>
-			<a_nombre>Rapido Ataque</a_nombre>
-			<potencia>8</potencia>
+				<a_nombre>Rapido Ataque</a_nombre>
+				<potencia>8</potencia>
+				
 		</ataque> 
 		<ataque>
 			<a_nombre>Corte Furia</a_nombre>
-			<potencia>3</potencia>
+				<potencia>3</potencia>
 		</ataque>
 		<ataque>
 			<a_nombre>Energibola</a_nombre>
-			<potencia>90</potencia>
+				<potencia>90</potencia>
 		</ataque>
 		<tipo>Planta</tipo>
 		<pc>461</pc>
 	</pokemon>
-	<pokemon f_captura="2022">
+		<pokemon f_captura="2022">
 		<nombre>Petilil</nombre>
 		<ataque>
 				<a_nombre>Ataque Rapido</a_nombre>
-				<potencia>8</potencia>	
+				<potencia>8</potencia>
+				
 		</ataque> 
 		<ataque>
 			<a_nombre>Poder Oculto</a_nombre>
-			<potencia>15</potencia>
+				<potencia>15</potencia>
 		</ataque>
 		<ataque>
 			<a_nombre>Energibola</a_nombre>
-			<potencia>90</potencia>
+				<potencia>90</potencia>
 		</ataque>
 		<tipo>Planta</tipo>
 		<pc>363</pc>
@@ -278,16 +291,17 @@
 	<pokemon f_captura="2022">
 		<nombre>Chikorita</nombre>
 		<ataque>
-			<a_nombre>Placaje</a_nombre>
-			<potencia>5</potencia>
+				<a_nombre>Placaje</a_nombre>
+				<potencia>5</potencia>
+				
 		</ataque> 
 		<ataque>
 			<a_nombre>Poder Oculto</a_nombre>
-			<potencia>15</potencia>
+				<potencia>15</potencia>
 		</ataque>
 		<ataque>
 			<a_nombre>Energibola</a_nombre>
-			<potencia>90</potencia>
+				<potencia>90</potencia>
 		</ataque>
 		<tipo>Planta</tipo>
 		<pc>391</pc>
@@ -295,27 +309,32 @@
 	<pokemon f_captura="2019">
 		<nombre>Magikarp</nombre>
 		<ataque>
-			<a_nombre>Ataque Lento</a_nombre>
-			<potencia>5</potencia>
-		</ataque>
+				<a_nombre>Ataque Lento</a_nombre>
+				<potencia>5</potencia>
+		</ataque> 
+		
 		<tipo>Agua</tipo>
 		<pc>29</pc>
 	</pokemon>
 	<pokemon f_captura="2021">
 		<nombre>Yungoos</nombre>
 		<ataque>
-			<a_nombre>Rapido Ataque</a_nombre>
-			<potencia>5</potencia>
-		</ataque>
+				<a_nombre>Rapido Ataque</a_nombre>
+				<potencia>5</potencia>
+				
+		</ataque> 
+		
 		<tipo>Normal</tipo>
 		<pc>420</pc>
 	</pokemon>
 	<pokemon f_captura="2022">
 		<nombre>Hitmonchan</nombre>
 		<ataque>
-			<a_nombre>Ataque Rapido</a_nombre>
-			<potencia>5</potencia>
-		</ataque>
+				<a_nombre>Ataque Rapido</a_nombre>
+				<potencia>5</potencia>
+				
+		</ataque> 
+		
 		<tipo>Lucha</tipo>
 		<pc>1684</pc>
 	</pokemon>
