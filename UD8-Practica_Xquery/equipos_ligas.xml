@@ -52,7 +52,8 @@
         <tipo>Electrico</tipo>
         <pc>2159</pc>
     </pokemon>
-    <!-- Hitmonchan es una de los pokemons con mayor pc-->
+    <!-- Hitmonchan es una de los pokemons con mayor pc -->
+    <!-- No he escogido a hariyama porque se repite en la super ball -->
     <pokemon f_captura="2022">
         <nombre>Hitmonchan</nombre>
         <ataque>
@@ -62,6 +63,8 @@
         <tipo>Lucha</tipo>
         <pc>1684</pc>
     </pokemon>
+    <!-- He escogido a Gligar porque magneton es vulnerable a Tierra y Lucha. Gligar al contrario, es resistente a 
+         electrico, lucha y tierra por lo que si atacan a magneton con un pokemon de tipo tierra, tiene la posibilidad de contratacar con Gligar -->
     <pokemon f_captura="2017">
         <nombre>Gligar</nombre>
         <ataque>
@@ -75,5 +78,196 @@
         <tipo>Tierra</tipo>
         <tipo>Volador</tipo>
         <pc>901</pc>
+    </pokemon>
+    <!-- Liga Master Ball -->
+    <!-- Para el equipo para la liga master ball, he elegido los siguientes pokemons debido a que todos superar el pc permitido 
+         ,ninguno repite en el nombre de ataques, ni en potencia y cada uno tiene un tipo diferente -->
+    <pokemon f_captura="2019">
+        <nombre>Espeon</nombre>
+        <ataque>
+            <a_nombre>Cabezazo Zen</a_nombre>
+            <potencia>12</potencia>
+        </ataque>
+        <ataque>
+            <a_nombre>Premonicion</a_nombre>
+            <potencia>120</potencia>
+        </ataque>
+        <tipo>Psiquico</tipo>
+        <pc>3046</pc>
+    </pokemon>
+    <pokemon f_captura="2018">
+        <nombre>Gyarados</nombre>
+        <ataque>
+            <a_nombre>Mordisco</a_nombre>
+            <potencia>6</potencia>
+        </ataque>
+        <ataque>
+            <a_nombre>Enfado</a_nombre>
+            <potencia>110</potencia>
+        </ataque>
+        <tipo>Agua</tipo>
+        <tipo>Volador</tipo>
+        <pc>3001</pc>
+    </pokemon>
+    <pokemon f_captura="2020">
+        <nombre>Flareon</nombre>
+        <ataque>
+            <a_nombre>Ascuas</a_nombre>
+            <potencia>10</potencia>
+        </ataque>
+        <tipo>Fuego</tipo>
+        <pc>2623</pc>
+    </pokemon>
+    <!-- Copa Halloween -->
+    <!-- En este equipo solo hay dos pokemons para la copa halloween -->
+    <pokemon f_captura="2022">
+        <nombre>Rattata</nombre>
+        <ataque>
+            <a_nombre>Ataque Rapido</a_nombre>
+            <potencia>8</potencia>
+        </ataque>
+        <ataque>
+            <a_nombre>Bola Sombra</a_nombre>
+            <potencia>100</potencia>
+        </ataque>
+        <tipo>Siniestro</tipo>
+        <tipo>Normal</tipo>
+        <pc>461</pc>
+    </pokemon>
+    <pokemon f_captura="2020">
+        <nombre>Snubbull</nombre>
+        <ataque>
+            <a_nombre>Mordisco</a_nombre>
+            <potencia>6</potencia>
+        </ataque>
+        <tipo>Hada</tipo>
+        <pc>297</pc>
+    </pokemon>
+    <!-- Copa Volador -->
+    <!-- He elegido estos pokemons porque son los que más pc tienen sin contar con los que ya estan elegidos para otras ligas o copas -->
+    <pokemon f_captura="2019">
+        <nombre>Rufflet</nombre>
+        <ataque>
+            <a_nombre>Ataque ala</a_nombre>
+            <potencia>8</potencia>
+        </ataque>
+        <ataque>
+            <a_nombre>Avalancha</a_nombre>
+            <potencia>70</potencia>
+        </ataque>
+        <tipo>Normal</tipo>
+        <tipo>Volador</tipo>
+        <pc>810</pc>
+    </pokemon>
+    <pokemon f_captura="2022">
+        <nombre>Skamory</nombre>
+        <ataque>
+            <a_nombre>Tajo Aereo</a_nombre>
+            <potencia>14</potencia>
+        </ataque>
+        <tipo>Acero</tipo>
+        <tipo>Volador</tipo>
+        <pc>748</pc>
+    </pokemon>
+    <pokemon f_captura="2017">
+        <nombre>Taillow</nombre>
+        <ataque>
+            <a_nombre>Ataque Rapido</a_nombre>
+            <potencia>8</potencia>
+        </ataque>
+        <ataque>
+            <a_nombre>Golpe Aereo</a_nombre>
+            <potencia>55</potencia>
+        </ataque>
+        <tipo>Normal</tipo>
+        <tipo>Volador</tipo>
+        <pc>411</pc>
+    </pokemon>
+    <!-- Copa Captura -->
+    <!-- He descartado a Skamory porque se repite en la copa Volador por lo que el siguiente pokemon con mayor pc es rattata -->
+    <pokemon f_captura="2022">
+        <nombre>Rattata</nombre>
+        <ataque>
+            <a_nombre>Ataque Rapido</a_nombre>
+            <potencia>8</potencia>
+        </ataque>
+        <ataque>
+            <a_nombre>Bola Sombra</a_nombre>
+            <potencia>100</potencia>
+        </ataque>
+        <tipo>Siniestro</tipo>
+        <tipo>Normal</tipo>
+        <pc>461</pc>
+    </pokemon>
+    <!-- He escogido a Chikorita por tener mas pc que Petilil y por ello lo he descartado -->
+    <pokemon f_captura="2022">
+        <nombre>Chikorita</nombre>
+        <ataque>
+            <a_nombre>Placaje</a_nombre>
+            <potencia>5</potencia>
+        </ataque>
+        <ataque>
+            <a_nombre>Poder Oculto</a_nombre>
+            <potencia>15</potencia>
+        </ataque>
+        <ataque>
+            <a_nombre>Energibola</a_nombre>
+            <potencia>90</potencia>
+        </ataque>
+        <tipo>Planta</tipo>
+        <pc>391</pc>
+    </pokemon>
+    <pokemon f_captura="2022">
+        <nombre>Digglet</nombre>
+        <ataque>
+            <a_nombre>Lanzarrocas</a_nombre>
+            <potencia>12</potencia>
+        </ataque>
+        <ataque>
+            <a_nombre>Avalancha</a_nombre>
+            <potencia>80</potencia>
+        </ataque>
+        <tipo>Fuego</tipo>
+        <pc>279</pc>
+    </pokemon>
+    <!-- Copa Elemental -->
+    <!-- Fomantis es el pokemon con mayor pc para esta copa -->
+    <!-- Se ha descartado a Chikorita y a Digglet por repetición en otras copas. 
+         Por otra parte a Petilil y a Slugma por repetición de tipo -->
+    <pokemon f_captura="2021">
+        <nombre>Fomantis</nombre>
+        <ataque>
+            <a_nombre>Rapido Ataque</a_nombre>
+            <potencia>8</potencia>
+        </ataque>
+        <ataque>
+            <a_nombre>Corte Furia</a_nombre>
+            <potencia>3</potencia>
+        </ataque>
+        <ataque>
+            <a_nombre>Energibola</a_nombre>
+            <potencia>90</potencia>
+        </ataque>
+        <tipo>Planta</tipo>
+        <pc>461</pc>
+    </pokemon>
+    <!-- Arcanine es el pokemon con mas pc de tipo fuego antes que slugma por repetición -->
+    <pokemon f_captura="2020">
+        <nombre>Arcanine</nombre>
+        <ataque>
+            <a_nombre>Alarido</a_nombre>
+            <potencia>12</potencia>
+        </ataque>
+        <tipo>Fuego</tipo>
+        <pc>83</pc>
+    </pokemon>
+    <pokemon f_captura="2019">
+        <nombre>Magikarp</nombre>
+        <ataque>
+            <a_nombre>Ataque Lento</a_nombre>
+            <potencia>5</potencia>
+        </ataque>
+        <tipo>Agua</tipo>
+        <pc>29</pc>
     </pokemon>
 </pokedex>

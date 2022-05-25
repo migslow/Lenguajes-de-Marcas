@@ -50,7 +50,7 @@ let $pc := $pok/pc
 let $d:=$pok/[@f_captura]
 where $d >= '2022'
 where $pc <= 1500
-where $pok/nombre != 'Rufflet'
+where $pok/nombre != 'Skamory'
 order by number($pc) descending
 return $pok
 
@@ -62,4 +62,8 @@ where $pc <= 500
 where $pok/tipo = 'Fuego' or
       $pok/tipo = 'Agua' or
       $pok/tipo = 'Planta'
+where $pok/nombre != 'Chikorita'
+where $pok/nombre != 'Digglet'
+where $pok/nombre != 'Petilil'
+where $pok/nombre != 'Slugma'
 return $pok
