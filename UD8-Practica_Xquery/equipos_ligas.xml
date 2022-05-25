@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<pokedex>
+    <!-- Liga Super Ball-->
+    <!-- Hariyama entra el primero por tener el mayor pc dentro de esta liga y por ser de tipo lucha -->
+    <pokemon f_captura="2018">
+        <nombre>Hariyama</nombre>
+        <ataque>
+            <a_nombre>Avalancha</a_nombre>
+            <potencia>14</potencia>
+        </ataque>
+        <tipo>Lucha</tipo>
+        <pc>1054</pc>
+    </pokemon>
+    <!-- Gligar tienen mas pc que Rufflet pero se reservan para la copa ultra ball -->
+    <!-- Rufflet tienen mas pc que darumaka pero se reservan para la copa volador -->
+    <pokemon f_captura="2018">
+        <nombre>Darumaka</nombre>
+        <ataque>
+            <a_nombre>Colmillo Igneo</a_nombre>
+            <potencia>12</potencia>
+        </ataque>
+        <ataque>
+            <a_nombre>Nitrocarga</a_nombre>
+            <potencia>70</potencia>
+        </ataque>
+        <tipo>Fuego</tipo>
+        <pc>779</pc>
+    </pokemon>
+    <!-- Skamory tienen mas pc que aggron pero se reserva para la copa volador -->
+    <pokemon f_captura="2018">
+        <nombre>Aggron</nombre>
+        <ataque>
+            <a_nombre>Cola Dragon</a_nombre>
+            <potencia>15</potencia>
+        </ataque>
+        <tipo>Acero</tipo>
+        <tipo>Roca</tipo>
+        <pc>666</pc>
+    </pokemon>
+    <!-- Liga Ultra Ball-->
+    <!-- Magneton tiene el mayor pc dentro de esta liga-->
+    <pokemon f_captura="2021">
+        <nombre>Magneton</nombre>
+        <ataque>
+            <a_nombre>Rayo Carga</a_nombre>
+            <potencia>8</potencia>
+        </ataque>
+        <ataque>
+            <a_nombre>Retribucion</a_nombre>
+            <potencia>35</potencia>
+        </ataque>
+        <tipo>Electrico</tipo>
+        <pc>2159</pc>
+    </pokemon>
+    <!-- Hitmonchan es una de los pokemons con mayor pc-->
+    <pokemon f_captura="2022">
+        <nombre>Hitmonchan</nombre>
+        <ataque>
+            <a_nombre>Ataque Rapido</a_nombre>
+            <potencia>5</potencia>
+        </ataque>
+        <tipo>Lucha</tipo>
+        <pc>1684</pc>
+    </pokemon>
+    <pokemon f_captura="2017">
+        <nombre>Gligar</nombre>
+        <ataque>
+            <a_nombre>Rapido Ataque</a_nombre>
+            <potencia>8</potencia>
+        </ataque>
+        <ataque>
+            <a_nombre>Golpe Aereo</a_nombre>
+            <potencia>70</potencia>
+        </ataque>
+        <tipo>Tierra</tipo>
+        <tipo>Volador</tipo>
+        <pc>901</pc>
+    </pokemon>
+</pokedex>

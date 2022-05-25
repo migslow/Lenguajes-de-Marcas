@@ -1,11 +1,10 @@
 // Consulta liga super ball
-for $pok in doc("pokemon")/pokedex/pokemon
+for $pok in /pokedex/pokemon
 let $pc := $pok/pc
-let $tipo := $pok/tipo
+order by number($pc) descending
 where $pc <= 1500
 where $pok/nombre != 'Rufflet'
-where $pok/tipo != 'Volador'
-order by number ($pok/pc) descending
+where $pok/nombre != 'Skamory'
 return $pok
 
 // Consulta liga ultra ball
@@ -14,7 +13,6 @@ let $pc := $pok/pc
 let $tipo := $pok/tipo
 let $na := count($pok/ataque)
 where $pc <= 2500
-where $tipo != 'Lucha'
 where $pok/nombre != 'Rufflet'
 order by number ($pok/pc) descending
 return $pok
