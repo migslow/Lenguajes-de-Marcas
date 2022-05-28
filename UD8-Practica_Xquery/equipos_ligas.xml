@@ -53,7 +53,7 @@
         <pc>2159</pc>
     </pokemon>
     <!-- Hitmonchan es una de los pokemons con mayor pc -->
-    <!-- No he escogido a hariyama porque se repite en la super ball -->
+    <!-- No he escogido a hariyama porque se repite en la copa super ball -->
     <pokemon f_captura="2022">
         <nombre>Hitmonchan</nombre>
         <ataque>
