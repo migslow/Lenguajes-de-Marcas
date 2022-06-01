@@ -4,6 +4,7 @@ let $pc := $pok/pc
 order by number($pc) descending
 where $pc <= 1500
 where $pok/nombre != 'Rufflet'
+where $pok/nombre != 'Gligar'
 where $pok/nombre != 'Skamory'
 return $pok
 
@@ -14,6 +15,7 @@ let $tipo := $pok/tipo
 let $na := count($pok/ataque)
 where $pc <= 2500
 where $pok/nombre != 'Rufflet'
+where $pok/nombre != 'Hariyama'
 order by number ($pok/pc) descending
 return $pok
 
@@ -38,10 +40,10 @@ return $pok
 // Consulta copa volador
 for $pok in /pokedex/pokemon
 let $pc := $pok/pc
-where $pc <= 1500
-where $pok/tipo != 'Volador'
-where $pok/nombre != 'Rufflet'
 order by number($pc) descending
+where $pc <= 1500
+where $pok/nombre != 'Gligar'
+where $pok/tipo = 'Volador'
 return $pok
 
 // Consulta copa captura
@@ -51,6 +53,7 @@ let $d:=$pok/[@f_captura]
 where $d >= '2022'
 where $pc <= 1500
 where $pok/nombre != 'Skamory'
+where $pok/nombre != 'Petilil'
 order by number($pc) descending
 return $pok
 
